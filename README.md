@@ -1,4 +1,4 @@
-# Relayr QE Automation Task
+# Sample API framework
 
 A simple framework built on top of requests and pytest modules for testing HTTP end points.
 
